@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">My App Portfolio</string>
+    <string name="nano_project_1">SPOTIFY STREAMER</string>
+    <string name="nano_project_2">SCORES</string>
+    <string name="nano_project_3">LIBRARY</string>
+    <string name="nano_project_4">BUILD IT BIGGER</string>
+    <string name="nano_project_5">XYZ READER</string>
+    <string name="nano_project_6">CAPSTONE:  TBD</string>
+    <string name="greeting">My Nanodegree Apps!</string>
+    <string name="toast_feature_not_implemented_prefix">This button will launch my</string>
+    <string name="toast_feature_not_implemented_suffix">App!</string>
+</resources>
