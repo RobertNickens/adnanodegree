@@ -13,41 +13,41 @@
         android:layout_margin="@dimen/activity_vertical_margin" />
 
     <Button
-        android:id="@+id/button"
+        android:id="@+id/button_project_1"
         android:text="@string/nano_project_1"
         style="@style/CodeFont"
         android:onClick="fireToast" />
 
     <Button
         android:text="@string/nano_project_2"
-        android:id="@+id/button2"
+        android:id="@+id/button_project_2"
         style="@style/CodeFont"
         android:onClick="fireToast" />
 
     <Button
         android:text="@string/nano_project_3"
-        android:id="@+id/button3"
+        android:id="@+id/button_project_3"
         style="@style/CodeFont"
         android:onClick="fireToast" />
 
 
     <Button
         android:text="@string/nano_project_4"
-        android:id="@+id/button4"
+        android:id="@+id/button_project_4"
         style="@style/CodeFont"
         android:onClick="fireToast" />
 
 
     <Button
         android:text="@string/nano_project_5"
-        android:id="@+id/button5"
+        android:id="@+id/button_project_5"
         style="@style/CodeFont"
         android:onClick="fireToast" />
 
 
     <Button
         android:text="@string/nano_project_6"
-        android:id="@+id/button6"
+        android:id="@+id/button_project_6"
         style="@style/CodeFont"
         android:onClick="fireToast" />
 
